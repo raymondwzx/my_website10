@@ -1,0 +1,15 @@
+---
+categories:
+- ""
+- ""
+date: "2020-10-19"
+description: About My Passion
+draft: false
+image: pic08.jpg
+keywords: ""
+slug: blog7
+title: Passion
+---
+
+
+I am genuinely interested in the topics of Sustainable Development Goals (SDGs), especially no poverty, gender equality, and sustainable city. I have devoted most of the time and energy contributing to all kinds of extracurricular activities related to them through my experiences at the United Student Government, Fordham Social Innovation Collaboratory, Ascend Pan-Asian Leaders Club, and Asia Initiative. 
